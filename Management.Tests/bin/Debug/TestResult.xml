@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Management\Management.Tests\bin\Debug\Management.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-10-17" time="12:02:17">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.3053" os-version="Microsoft Windows NT 5.2.3790 Service Pack 2" platform="Win32NT" cwd="C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Management\Management.Tests\bin\Debug" machine-name="A2" user="Administrator" user-domain="A2" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Management\Management.Tests\bin\Debug\Management.Tests.dll" executed="True" result="Success" success="True" time="0.810" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Management" executed="True" result="Success" success="True" time="0.777" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.776" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Controllers" executed="True" result="Success" success="True" time="0.775" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="HomeControllerTest" executed="True" result="Success" success="True" time="0.773" asserts="0">
+                    <results>
+                      <test-case name="Management.Tests.Controllers.HomeControllerTest.IndexTest" executed="True" result="Success" success="True" time="0.737" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

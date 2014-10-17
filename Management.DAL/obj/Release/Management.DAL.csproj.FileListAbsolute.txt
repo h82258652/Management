@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.DAL\bin\Release\Management.DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.DAL\bin\Release\Management.DAL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.DAL\obj\Release\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.DAL\obj\Release\Management.DAL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.DAL\obj\Release\Management.DAL.pdb

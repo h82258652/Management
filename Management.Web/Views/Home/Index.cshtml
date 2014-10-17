@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div class="container-fluid">
+    <div class="row">
+        @* 左侧树状列表*@
+        <div class="col-sm-3 col-md-2 sidebar">
+            <ul class="nav nav-sidebar">
+                <li class="active"><a href="#">用户管理</a></li>
+                <li><a href="#">A</a></li>
+                <li><a href="#">B</a></li>
+                <li><a href="#">C</a></li>
+            </ul>
+        </div>
+        @* 右侧内容布局*@
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    用户列表</div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="navbar-collapse collapse">
+                                <button type="button" class="btn btn-default">
+                                    添加</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            @{Html.RenderAction("Search");}
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-footer">
+                    fott</div>
+            </div>
+        </div>
+    </div>
+</div>

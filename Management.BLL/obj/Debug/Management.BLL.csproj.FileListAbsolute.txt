@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.BLL\bin\Debug\Management.BLL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.BLL\bin\Debug\Management.BLL.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.BLL\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.BLL\obj\Debug\Management.BLL.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\Management\Management.BLL\obj\Debug\Management.BLL.pdb
